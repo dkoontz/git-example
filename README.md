@@ -1,1 +1,1 @@
-# git-example
+This is the example repo for learning about Git.
